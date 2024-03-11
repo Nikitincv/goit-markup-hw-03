@@ -30,11 +30,11 @@ ul {
     margin: 0;
   }
 
-.container {
-    max-width: 1158px;
-    padding: 0 15px;
-    margin: 0 auto;
-}  
+  section {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
   img {
     display: block;
     max-width: 100%;
@@ -158,10 +158,7 @@ text-align: center;
 
 }
 
-.privileg-section {
-    padding-top: 120px;
-    padding-bottom: 120px;
-}
+
 
 .privileg-container-list{
 padding: 0;
@@ -176,19 +173,6 @@ gap: 24px;
 
 }
 
-.privileg-container {
-    padding: 0;
-    margin: 0 auto;
-   max-width: 1128px;
-    
-
-}
-
-.container-title{
-    max-width: 1158px;
-    padding: 0 15px;
-    margin: 0 auto;
-}
 .button {
 font-weight: 500;
 line-height: 1.5;
@@ -242,6 +226,7 @@ margin-bottom: 72px;
 
 }
 
+
 .team-list {
 display: flex;
 gap: 24px;
@@ -269,9 +254,9 @@ color: #434455;
 
 
 .team-section {
-    background-color: #f4f4fd;;
-    padding-top: 120px;
-    padding-bottom: 120px;
+background-color: #f4f4fd;;
+padding-top: 120px;
+padding-bottom: 120px;
 
     
 }
@@ -287,13 +272,9 @@ background: #fff;
 width: calc((100% - 3 * 24px) / 4);
 }
 
-.Our-Team-container {
-margin: 0 auto;
-padding: 0 auto;
-width: 100%;
 
 
-}
+
 
 .our-portfolio-title {
 font-family: "Roboto", sans-serif;
