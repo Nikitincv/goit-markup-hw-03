@@ -308,7 +308,7 @@ font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2e2f42;
-display: inline-block;
+margin-bottom: 8px;
 }
 .o-p-facilities {
 font-family: "Roboto", sans-serif;
@@ -366,6 +366,8 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
 margin-bottom: 16px;
+display: inline-block;
+
 
 }
 .logo-part-footer {
@@ -375,7 +377,6 @@ font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-margin-bottom: 16px;
 display: inline-block;
 color: #f4f4fd;
 }
